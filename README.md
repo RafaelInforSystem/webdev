@@ -1,6 +1,6 @@
 # webdev
 
-Este é o build de uma aplicação desenvolvida, por mim, para entender e praticar as funcionalidades  
+Este é o build de uma aplicação desenvolvida, por mim em 2018, para entender e praticar as funcionalidades  
 do ecossistema **vue.js**
 
 Que pode ser acessada em [https://rafaelwebapps.github.io/webdev/](https://rafaelwebapps.github.io/webdev/).
