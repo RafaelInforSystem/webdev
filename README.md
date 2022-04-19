@@ -4,6 +4,6 @@ Este é o build de uma aplicação desenvolvida, por mim, para entender e pratic
 
 Que pode ser acessada em [https://rafaelwebapps.github.io/webdev/](https://rafaelwebapps.github.io/webdev/).
 
-O objetivo dessa aplicação é ajudar aqueles que estão embarcando na exploração do universo 
+O objetivo dessa aplicação é ajudar aqueles que estão embarcando na exploração do universo  
 do **Desenvolvimento Web** à entenderem as diversas tecnologias que orbita esse meio.
 
